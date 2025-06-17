@@ -1,5 +1,5 @@
 {
-    var user = { name: "Alice", role: "user" };
+    var user = { name: "Kalai", role: "user" };
     {
         user.role = "admin"; // modify role inside block
     }
