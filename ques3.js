@@ -1,7 +1,7 @@
 var students = [
-    { name: "Asha", grades: [90, 80, 85] },
-    { name: "Kiran" },
-    { name: "Lila", grades: [70, 75] }
+    { name: "Kalai", grades: [90, 80, 85] },
+    { name: "Thara" },
+    { name: "Navee", grades: [70, 75] }
 ];
 var messages = students.map(function (student) {
     var grades = student.grades;
